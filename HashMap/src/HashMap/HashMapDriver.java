@@ -15,7 +15,7 @@ public class HashMapDriver {
         ArrayList<Entry> list = new ArrayList<>(50);
 
         for (int i = 0; i < 50; i++) {
-            Entry newEntry = new Entry(100, Entry.randomNum());
+            Entry newEntry = new Entry(Entry.randomNum(), Entry.randomNum());
             list.add(newEntry);
         }
 

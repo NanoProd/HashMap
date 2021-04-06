@@ -18,6 +18,7 @@ public class Entry {
 
     
     /** 
+     * gets key
      * @return int
      */
     public int getKey() {
@@ -26,6 +27,7 @@ public class Entry {
 
     
     /** 
+     * gets value
      * @return int
      */
     public int getValue() {
@@ -34,6 +36,7 @@ public class Entry {
 
     
     /** 
+     * sets key
      * @param key
      */
     public void setKey(int key) {
@@ -42,6 +45,7 @@ public class Entry {
 
     
     /** 
+     * sets value
      * @param value
      * @return int
      */
@@ -53,6 +57,7 @@ public class Entry {
 
     
     /** 
+     * generates random number
      * @return int
      */
     public static int randomNum() {
@@ -62,7 +67,8 @@ public class Entry {
     }
 
     
-    /** 
+    /**
+     * returns hash code value 
      * @param N
      * @return int
      */

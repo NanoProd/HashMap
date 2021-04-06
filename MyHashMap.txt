@@ -1,534 +1,21 @@
 --------------------------------------
-Method to insert key 327 took 0ms
+Method to insert key 907 took 0ms
 Size of the table: 100
 Number of elements: 0
 Number of collisions: 0
 Items in bucket: 1
 Load factor: 0.009999999776482582
---------------------------------------
---------------------------------------
-Method to insert key 916 took 0ms
-Size of the table: 100
-Number of elements: 1
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.019999999552965164
---------------------------------------
---------------------------------------
-Method to insert key 179 took 0ms
-Size of the table: 100
-Number of elements: 2
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.029999999329447746
---------------------------------------
---------------------------------------
-Method to insert key 281 took 0ms
-Size of the table: 100
-Number of elements: 3
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.03999999910593033
---------------------------------------
---------------------------------------
-Method to insert key 661 took 0ms
-Size of the table: 100
-Number of elements: 4
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.05000000074505806
---------------------------------------
---------------------------------------
-Method to insert key 320 took 0ms
-Size of the table: 100
-Number of elements: 5
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.05999999865889549
---------------------------------------
---------------------------------------
-Method to insert key 568 took 0ms
-Size of the table: 100
-Number of elements: 6
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.07000000029802322
---------------------------------------
---------------------------------------
-Method to insert key 722 took 0ms
-Size of the table: 100
-Number of elements: 7
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.07999999821186066
---------------------------------------
---------------------------------------
-Method to insert key 438 took 0ms
-Size of the table: 100
-Number of elements: 8
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.09000000357627869
---------------------------------------
---------------------------------------
-Method to insert key 432 took 0ms
-Size of the table: 100
-Number of elements: 9
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.10000000149011612
---------------------------------------
---------------------------------------
-Method to insert key 435 took 0ms
-Size of the table: 100
-Number of elements: 10
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.10999999940395355
---------------------------------------
---------------------------------------
-Method to insert key 297 took 0ms
-Size of the table: 100
-Number of elements: 11
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.11999999731779099
---------------------------------------
---------------------------------------
-Method to insert key 337 took 0ms
-Size of the table: 100
-Number of elements: 12
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.12999999523162842
---------------------------------------
---------------------------------------
-Method to insert key 460 took 0ms
-Size of the table: 100
-Number of elements: 13
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.14000000059604645
---------------------------------------
---------------------------------------
-Method to insert key 488 took 0ms
-Size of the table: 100
-Number of elements: 14
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.15000000596046448
---------------------------------------
---------------------------------------
-Method to insert key 745 took 0ms
-Size of the table: 100
-Number of elements: 15
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.1599999964237213
---------------------------------------
---------------------------------------
-Method to insert key 44 took 0ms
-Size of the table: 100
-Number of elements: 16
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.17000000178813934
---------------------------------------
---------------------------------------
-Method to insert key 583 took 0ms
-Size of the table: 100
-Number of elements: 17
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.18000000715255737
---------------------------------------
---------------------------------------
-Method to insert key 141 took 0ms
-Size of the table: 100
-Number of elements: 18
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.1899999976158142
---------------------------------------
---------------------------------------
-Method to insert key 645 took 0ms
-Size of the table: 100
-Number of elements: 19
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.20000000298023224
---------------------------------------
---------------------------------------
-Method to insert key 866 took 0ms
-Size of the table: 100
-Number of elements: 20
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.20999999344348907
---------------------------------------
---------------------------------------
-Method to insert key 403 took 0ms
-Size of the table: 100
-Number of elements: 21
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.2199999988079071
---------------------------------------
---------------------------------------
-Method to insert key 943 took 0ms
-Size of the table: 100
-Number of elements: 22
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.23000000417232513
---------------------------------------
---------------------------------------
-Method to insert key 978 took 0ms
-Size of the table: 100
-Number of elements: 23
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.23999999463558197
---------------------------------------
---------------------------------------
-Method to insert key 138 took 0ms
-Size of the table: 100
-Number of elements: 24
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.25
---------------------------------------
---------------------------------------
-Method to insert key 738 took 0ms
-Size of the table: 100
-Number of elements: 25
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.25999999046325684
---------------------------------------
---------------------------------------
-Method to insert key 550 took 0ms
-Size of the table: 100
-Number of elements: 26
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.27000001072883606
---------------------------------------
---------------------------------------
-Method to insert key 964 took 0ms
-Size of the table: 100
-Number of elements: 27
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.2800000011920929
---------------------------------------
---------------------------------------
-Method to insert key 318 took 0ms
-Size of the table: 100
-Number of elements: 28
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.28999999165534973
---------------------------------------
---------------------------------------
-Method to insert key 919 took 0ms
-Size of the table: 100
-Number of elements: 29
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.30000001192092896
 --------------------------------------
 --------------------------------------
 Method to insert key 114 took 0ms
 Size of the table: 100
-Number of elements: 30
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.3100000023841858
---------------------------------------
---------------------------------------
-Method to insert key 99 took 0ms
-Size of the table: 100
-Number of elements: 31
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.3199999928474426
---------------------------------------
---------------------------------------
-Method to insert key 431 took 0ms
-Size of the table: 100
-Number of elements: 32
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.33000001311302185
---------------------------------------
---------------------------------------
-Method to insert key 798 took 0ms
-Size of the table: 100
-Number of elements: 33
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.3400000035762787
---------------------------------------
---------------------------------------
-Method to insert key 684 took 0ms
-Size of the table: 100
-Number of elements: 34
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.3499999940395355
---------------------------------------
---------------------------------------
-Method to insert key 508 took 0ms
-Size of the table: 100
-Number of elements: 35
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.36000001430511475
---------------------------------------
---------------------------------------
-Method to insert key 138 took 0ms
-Size of the table: 100
-Number of elements: 36
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.3700000047683716
---------------------------------------
---------------------------------------
-Method to insert key 603 took 0ms
-Size of the table: 100
-Number of elements: 37
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.3799999952316284
---------------------------------------
---------------------------------------
-Method to insert key 363 took 0ms
-Size of the table: 100
-Number of elements: 38
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.38999998569488525
---------------------------------------
---------------------------------------
-Method to insert key 903 took 0ms
-Size of the table: 100
-Number of elements: 39
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.4000000059604645
---------------------------------------
---------------------------------------
-Method to insert key 56 took 0ms
-Size of the table: 100
-Number of elements: 40
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.4099999964237213
---------------------------------------
---------------------------------------
-Method to insert key 528 took 0ms
-Size of the table: 100
-Number of elements: 41
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.41999998688697815
---------------------------------------
---------------------------------------
-Method to insert key 0 took 0ms
-Size of the table: 100
-Number of elements: 42
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.4300000071525574
---------------------------------------
---------------------------------------
-Method to insert key 357 took 0ms
-Size of the table: 100
-Number of elements: 43
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.4399999976158142
---------------------------------------
---------------------------------------
-Method to insert key 431 took 0ms
-Size of the table: 100
-Number of elements: 44
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.44999998807907104
---------------------------------------
---------------------------------------
-Method to insert key 822 took 0ms
-Size of the table: 100
-Number of elements: 45
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.46000000834465027
---------------------------------------
---------------------------------------
-Method to insert key 617 took 0ms
-Size of the table: 100
-Number of elements: 46
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.4699999988079071
---------------------------------------
---------------------------------------
-Method to insert key 392 took 0ms
-Size of the table: 100
-Number of elements: 47
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.47999998927116394
---------------------------------------
---------------------------------------
-Method to insert key 124 took 0ms
-Size of the table: 100
-Number of elements: 48
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.49000000953674316
---------------------------------------
---------------------------------------
-Method to insert key 831 took 0ms
-Size of the table: 100
-Number of elements: 49
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.5
---------------------------------------
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-remove(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
-get(k) time taken = 0
---------------------------------------
-Method to insert key 997 took 0ms
-Size of the table: 100
-Number of elements: 0
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.009999999776482582
---------------------------------------
---------------------------------------
-Method to insert key 248 took 0ms
-Size of the table: 100
 Number of elements: 1
 Number of collisions: 0
 Items in bucket: 1
 Load factor: 0.019999999552965164
 --------------------------------------
 --------------------------------------
-Method to insert key 998 took 0ms
+Method to insert key 169 took 0ms
 Size of the table: 100
 Number of elements: 2
 Number of collisions: 0
@@ -536,7 +23,7 @@ Items in bucket: 1
 Load factor: 0.029999999329447746
 --------------------------------------
 --------------------------------------
-Method to insert key 149 took 0ms
+Method to insert key 516 took 0ms
 Size of the table: 100
 Number of elements: 3
 Number of collisions: 0
@@ -544,1170 +31,1583 @@ Items in bucket: 1
 Load factor: 0.03999999910593033
 --------------------------------------
 --------------------------------------
-Method to insert key 997 took 0ms
+Method to insert key 669 took 0ms
 Size of the table: 100
 Number of elements: 4
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 1
+Items in bucket: 2
 Load factor: 0.05000000074505806
 --------------------------------------
 --------------------------------------
-Method to insert key 19 took 0ms
+Method to insert key 57 took 0ms
 Size of the table: 100
 Number of elements: 5
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.05999999865889549
 --------------------------------------
 --------------------------------------
-Method to insert key 897 took 0ms
+Method to insert key 733 took 0ms
 Size of the table: 100
 Number of elements: 6
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.07000000029802322
 --------------------------------------
 --------------------------------------
-Method to insert key 33 took 0ms
+Method to insert key 247 took 0ms
 Size of the table: 100
 Number of elements: 7
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.07999999821186066
 --------------------------------------
 --------------------------------------
-Method to insert key 231 took 0ms
+Method to insert key 273 took 0ms
 Size of the table: 100
 Number of elements: 8
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.09000000357627869
 --------------------------------------
 --------------------------------------
-Method to insert key 307 took 0ms
+Method to insert key 628 took 0ms
 Size of the table: 100
 Number of elements: 9
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.10000000149011612
 --------------------------------------
 --------------------------------------
-Method to insert key 428 took 0ms
+Method to insert key 780 took 0ms
 Size of the table: 100
 Number of elements: 10
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.10999999940395355
 --------------------------------------
 --------------------------------------
-Method to insert key 437 took 0ms
+Method to insert key 846 took 0ms
 Size of the table: 100
 Number of elements: 11
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.11999999731779099
 --------------------------------------
 --------------------------------------
-Method to insert key 816 took 0ms
+Method to insert key 53 took 0ms
 Size of the table: 100
 Number of elements: 12
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.12999999523162842
 --------------------------------------
 --------------------------------------
-Method to insert key 910 took 0ms
+Method to insert key 419 took 0ms
 Size of the table: 100
 Number of elements: 13
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.14000000059604645
 --------------------------------------
 --------------------------------------
-Method to insert key 500 took 0ms
+Method to insert key 313 took 0ms
 Size of the table: 100
 Number of elements: 14
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.15000000596046448
 --------------------------------------
 --------------------------------------
-Method to insert key 753 took 0ms
+Method to insert key 797 took 0ms
 Size of the table: 100
 Number of elements: 15
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.1599999964237213
 --------------------------------------
 --------------------------------------
-Method to insert key 581 took 0ms
+Method to insert key 959 took 0ms
 Size of the table: 100
 Number of elements: 16
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.17000000178813934
 --------------------------------------
 --------------------------------------
-Method to insert key 314 took 0ms
+Method to insert key 140 took 0ms
 Size of the table: 100
 Number of elements: 17
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.18000000715255737
 --------------------------------------
 --------------------------------------
-Method to insert key 874 took 0ms
+Method to insert key 996 took 0ms
 Size of the table: 100
 Number of elements: 18
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.1899999976158142
 --------------------------------------
 --------------------------------------
-Method to insert key 431 took 0ms
+Method to insert key 644 took 0ms
 Size of the table: 100
 Number of elements: 19
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.20000000298023224
 --------------------------------------
 --------------------------------------
-Method to insert key 860 took 0ms
+Method to insert key 756 took 0ms
 Size of the table: 100
 Number of elements: 20
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.20999999344348907
 --------------------------------------
 --------------------------------------
-Method to insert key 757 took 0ms
+Method to insert key 758 took 0ms
 Size of the table: 100
 Number of elements: 21
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.2199999988079071
 --------------------------------------
 --------------------------------------
-Method to insert key 78 took 0ms
+Method to insert key 99 took 0ms
 Size of the table: 100
 Number of elements: 22
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.23000000417232513
 --------------------------------------
 --------------------------------------
-Method to insert key 868 took 0ms
+Method to insert key 187 took 0ms
 Size of the table: 100
 Number of elements: 23
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.23999999463558197
 --------------------------------------
 --------------------------------------
-Method to insert key 514 took 0ms
+Method to insert key 417 took 0ms
 Size of the table: 100
 Number of elements: 24
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.25
 --------------------------------------
 --------------------------------------
-Method to insert key 826 took 0ms
+Method to insert key 718 took 0ms
 Size of the table: 100
 Number of elements: 25
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.25999999046325684
 --------------------------------------
 --------------------------------------
-Method to insert key 381 took 0ms
+Method to insert key 165 took 0ms
 Size of the table: 100
 Number of elements: 26
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.27000001072883606
 --------------------------------------
 --------------------------------------
-Method to insert key 423 took 0ms
+Method to insert key 675 took 0ms
 Size of the table: 100
 Number of elements: 27
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.2800000011920929
 --------------------------------------
 --------------------------------------
-Method to insert key 669 took 0ms
+Method to insert key 462 took 0ms
 Size of the table: 100
 Number of elements: 28
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.28999999165534973
 --------------------------------------
 --------------------------------------
-Method to insert key 21 took 0ms
+Method to insert key 302 took 0ms
 Size of the table: 100
 Number of elements: 29
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.30000001192092896
 --------------------------------------
 --------------------------------------
-Method to insert key 79 took 0ms
+Method to insert key 729 took 0ms
 Size of the table: 100
 Number of elements: 30
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.3100000023841858
 --------------------------------------
 --------------------------------------
-Method to insert key 94 took 0ms
+Method to insert key 978 took 0ms
 Size of the table: 100
 Number of elements: 31
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.3199999928474426
 --------------------------------------
 --------------------------------------
-Method to insert key 98 took 0ms
+Method to insert key 626 took 0ms
 Size of the table: 100
 Number of elements: 32
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.33000001311302185
 --------------------------------------
 --------------------------------------
-Method to insert key 208 took 0ms
+Method to insert key 132 took 0ms
 Size of the table: 100
 Number of elements: 33
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.3400000035762787
 --------------------------------------
 --------------------------------------
-Method to insert key 878 took 0ms
+Method to insert key 523 took 0ms
 Size of the table: 100
 Number of elements: 34
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.3499999940395355
 --------------------------------------
 --------------------------------------
-Method to insert key 699 took 0ms
+Method to insert key 845 took 0ms
 Size of the table: 100
 Number of elements: 35
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.36000001430511475
 --------------------------------------
 --------------------------------------
-Method to insert key 725 took 0ms
+Method to insert key 425 took 0ms
 Size of the table: 100
 Number of elements: 36
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.3700000047683716
 --------------------------------------
 --------------------------------------
-Method to insert key 660 took 0ms
+Method to insert key 308 took 0ms
 Size of the table: 100
 Number of elements: 37
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.3799999952316284
 --------------------------------------
 --------------------------------------
-Method to insert key 749 took 0ms
+Method to insert key 900 took 0ms
 Size of the table: 100
 Number of elements: 38
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.38999998569488525
 --------------------------------------
 --------------------------------------
-Method to insert key 723 took 0ms
+Method to insert key 677 took 0ms
 Size of the table: 100
 Number of elements: 39
-Number of collisions: 0
+Number of collisions: 1
 Items in bucket: 1
 Load factor: 0.4000000059604645
 --------------------------------------
 --------------------------------------
-Method to insert key 630 took 0ms
+Method to insert key 540 took 0ms
 Size of the table: 100
 Number of elements: 40
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 2
+Items in bucket: 2
 Load factor: 0.4099999964237213
 --------------------------------------
 --------------------------------------
-Method to insert key 972 took 0ms
+Method to insert key 697 took 0ms
 Size of the table: 100
 Number of elements: 41
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 3
+Items in bucket: 2
 Load factor: 0.41999998688697815
 --------------------------------------
 --------------------------------------
-Method to insert key 915 took 0ms
+Method to insert key 533 took 0ms
 Size of the table: 100
 Number of elements: 42
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 4
+Items in bucket: 2
 Load factor: 0.4300000071525574
 --------------------------------------
 --------------------------------------
-Method to insert key 358 took 0ms
+Method to insert key 775 took 0ms
 Size of the table: 100
 Number of elements: 43
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 5
+Items in bucket: 2
 Load factor: 0.4399999976158142
 --------------------------------------
 --------------------------------------
-Method to insert key 52 took 0ms
+Method to insert key 67 took 0ms
 Size of the table: 100
 Number of elements: 44
-Number of collisions: 0
+Number of collisions: 5
 Items in bucket: 1
 Load factor: 0.44999998807907104
 --------------------------------------
 --------------------------------------
-Method to insert key 594 took 0ms
+Method to insert key 455 took 0ms
 Size of the table: 100
 Number of elements: 45
-Number of collisions: 0
+Number of collisions: 5
 Items in bucket: 1
 Load factor: 0.46000000834465027
 --------------------------------------
 --------------------------------------
-Method to insert key 206 took 0ms
+Method to insert key 856 took 0ms
 Size of the table: 100
 Number of elements: 46
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 6
+Items in bucket: 2
 Load factor: 0.4699999988079071
 --------------------------------------
 --------------------------------------
-Method to insert key 938 took 0ms
+Method to insert key 610 took 0ms
 Size of the table: 100
 Number of elements: 47
-Number of collisions: 0
+Number of collisions: 6
 Items in bucket: 1
 Load factor: 0.47999998927116394
 --------------------------------------
 --------------------------------------
-Method to insert key 811 took 0ms
+Method to insert key 370 took 0ms
 Size of the table: 100
 Number of elements: 48
-Number of collisions: 0
+Number of collisions: 6
 Items in bucket: 1
 Load factor: 0.49000000953674316
 --------------------------------------
 --------------------------------------
-Method to insert key 799 took 0ms
+Method to insert key 183 took 0ms
 Size of the table: 100
 Number of elements: 49
-Number of collisions: 0
+Number of collisions: 6
 Items in bucket: 1
 Load factor: 0.5
 --------------------------------------
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 1
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
+get(k) time taken = 0
 --------------------------------------
-Method to insert key 378 took 0ms
+Method to insert key 336 took 0ms
 Size of the table: 100
-Number of elements: 50
-Number of collisions: 0
+Number of elements: 0
+Number of collisions: 6
 Items in bucket: 1
-Load factor: 0.5099999904632568
+Load factor: 0.009999999776482582
 --------------------------------------
 --------------------------------------
-Method to insert key 13 took 0ms
+Method to insert key 584 took 0ms
 Size of the table: 100
-Number of elements: 51
-Number of collisions: 0
+Number of elements: 1
+Number of collisions: 6
 Items in bucket: 1
-Load factor: 0.5199999809265137
+Load factor: 0.019999999552965164
 --------------------------------------
 --------------------------------------
-Method to insert key 161 took 0ms
+Method to insert key 36 took 0ms
 Size of the table: 100
-Number of elements: 52
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.5299999713897705
---------------------------------------
---------------------------------------
-Method to insert key 86 took 0ms
-Size of the table: 100
-Number of elements: 53
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.5400000214576721
---------------------------------------
---------------------------------------
-Method to insert key 415 took 0ms
-Size of the table: 100
-Number of elements: 54
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.550000011920929
---------------------------------------
---------------------------------------
-Method to insert key 65 took 0ms
-Size of the table: 100
-Number of elements: 55
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.5600000023841858
---------------------------------------
---------------------------------------
-Method to insert key 430 took 0ms
-Size of the table: 100
-Number of elements: 56
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.5699999928474426
---------------------------------------
---------------------------------------
-Method to insert key 606 took 0ms
-Size of the table: 100
-Number of elements: 57
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.5799999833106995
---------------------------------------
---------------------------------------
-Method to insert key 288 took 0ms
-Size of the table: 100
-Number of elements: 58
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.5899999737739563
---------------------------------------
---------------------------------------
-Method to insert key 793 took 0ms
-Size of the table: 100
-Number of elements: 59
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6000000238418579
---------------------------------------
---------------------------------------
-Method to insert key 227 took 0ms
-Size of the table: 100
-Number of elements: 60
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6100000143051147
---------------------------------------
---------------------------------------
-Method to insert key 749 took 0ms
-Size of the table: 100
-Number of elements: 61
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6200000047683716
---------------------------------------
---------------------------------------
-Method to insert key 393 took 0ms
-Size of the table: 100
-Number of elements: 62
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6299999952316284
---------------------------------------
---------------------------------------
-Method to insert key 700 took 0ms
-Size of the table: 100
-Number of elements: 63
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6399999856948853
---------------------------------------
---------------------------------------
-Method to insert key 539 took 0ms
-Size of the table: 100
-Number of elements: 64
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6499999761581421
---------------------------------------
---------------------------------------
-Method to insert key 113 took 0ms
-Size of the table: 100
-Number of elements: 65
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6600000262260437
---------------------------------------
---------------------------------------
-Method to insert key 282 took 0ms
-Size of the table: 100
-Number of elements: 66
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6700000166893005
---------------------------------------
---------------------------------------
-Method to insert key 511 took 0ms
-Size of the table: 100
-Number of elements: 67
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6800000071525574
---------------------------------------
---------------------------------------
-Method to insert key 985 took 0ms
-Size of the table: 100
-Number of elements: 68
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.6899999976158142
---------------------------------------
---------------------------------------
-Method to insert key 44 took 0ms
-Size of the table: 100
-Number of elements: 69
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.699999988079071
---------------------------------------
---------------------------------------
-Method to insert key 235 took 0ms
-Size of the table: 100
-Number of elements: 70
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7099999785423279
---------------------------------------
---------------------------------------
-Method to insert key 622 took 0ms
-Size of the table: 100
-Number of elements: 71
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7200000286102295
---------------------------------------
---------------------------------------
-Method to insert key 916 took 0ms
-Size of the table: 100
-Number of elements: 72
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7300000190734863
---------------------------------------
---------------------------------------
-Method to insert key 952 took 0ms
-Size of the table: 100
-Number of elements: 73
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7400000095367432
---------------------------------------
---------------------------------------
-Method to insert key 62 took 0ms
-Size of the table: 100
-Number of elements: 74
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.75
---------------------------------------
---------------------------------------
-Method to insert key 468 took 0ms
-Size of the table: 100
-Number of elements: 75
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7599999904632568
---------------------------------------
---------------------------------------
-Method to insert key 197 took 0ms
-Size of the table: 100
-Number of elements: 76
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7699999809265137
---------------------------------------
---------------------------------------
-Method to insert key 848 took 0ms
-Size of the table: 100
-Number of elements: 77
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7799999713897705
---------------------------------------
---------------------------------------
-Method to insert key 831 took 0ms
-Size of the table: 100
-Number of elements: 78
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.7900000214576721
---------------------------------------
---------------------------------------
-Method to insert key 862 took 0ms
-Size of the table: 100
-Number of elements: 79
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.800000011920929
---------------------------------------
---------------------------------------
-Method to insert key 759 took 0ms
-Size of the table: 100
-Number of elements: 80
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8100000023841858
---------------------------------------
---------------------------------------
-Method to insert key 425 took 0ms
-Size of the table: 100
-Number of elements: 81
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8199999928474426
---------------------------------------
---------------------------------------
-Method to insert key 294 took 0ms
-Size of the table: 100
-Number of elements: 82
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8299999833106995
---------------------------------------
---------------------------------------
-Method to insert key 921 took 0ms
-Size of the table: 100
-Number of elements: 83
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8399999737739563
---------------------------------------
---------------------------------------
-Method to insert key 986 took 0ms
-Size of the table: 100
-Number of elements: 84
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8500000238418579
---------------------------------------
---------------------------------------
-Method to insert key 362 took 0ms
-Size of the table: 100
-Number of elements: 85
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8600000143051147
---------------------------------------
---------------------------------------
-Method to insert key 392 took 0ms
-Size of the table: 100
-Number of elements: 86
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8700000047683716
---------------------------------------
---------------------------------------
-Method to insert key 939 took 0ms
-Size of the table: 100
-Number of elements: 87
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8799999952316284
---------------------------------------
---------------------------------------
-Method to insert key 167 took 0ms
-Size of the table: 100
-Number of elements: 88
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8899999856948853
---------------------------------------
---------------------------------------
-Method to insert key 346 took 0ms
-Size of the table: 100
-Number of elements: 89
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.8999999761581421
---------------------------------------
---------------------------------------
-Method to insert key 746 took 0ms
-Size of the table: 100
-Number of elements: 90
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9100000262260437
---------------------------------------
---------------------------------------
-Method to insert key 919 took 0ms
-Size of the table: 100
-Number of elements: 91
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9200000166893005
---------------------------------------
---------------------------------------
-Method to insert key 411 took 0ms
-Size of the table: 100
-Number of elements: 92
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9300000071525574
---------------------------------------
---------------------------------------
-Method to insert key 871 took 0ms
-Size of the table: 100
-Number of elements: 93
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9399999976158142
---------------------------------------
---------------------------------------
-Method to insert key 933 took 0ms
-Size of the table: 100
-Number of elements: 94
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.949999988079071
---------------------------------------
---------------------------------------
-Method to insert key 118 took 0ms
-Size of the table: 100
-Number of elements: 95
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9599999785423279
---------------------------------------
---------------------------------------
-Method to insert key 387 took 0ms
-Size of the table: 100
-Number of elements: 96
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9700000286102295
---------------------------------------
---------------------------------------
-Method to insert key 418 took 0ms
-Size of the table: 100
-Number of elements: 97
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9800000190734863
---------------------------------------
---------------------------------------
-Method to insert key 56 took 0ms
-Size of the table: 100
-Number of elements: 98
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 0.9900000095367432
---------------------------------------
---------------------------------------
-Method to insert key 109 took 0ms
-Size of the table: 100
-Number of elements: 99
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0
---------------------------------------
---------------------------------------
-Method to insert key 528 took 0ms
-Size of the table: 100
-Number of elements: 100
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0099999904632568
---------------------------------------
---------------------------------------
-Method to insert key 18 took 0ms
-Size of the table: 100
-Number of elements: 101
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0199999809265137
---------------------------------------
---------------------------------------
-Method to insert key 49 took 0ms
-Size of the table: 100
-Number of elements: 102
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0299999713897705
---------------------------------------
---------------------------------------
-Method to insert key 707 took 0ms
-Size of the table: 100
-Number of elements: 103
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0399999618530273
---------------------------------------
---------------------------------------
-Method to insert key 18 took 0ms
-Size of the table: 100
-Number of elements: 104
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0499999523162842
---------------------------------------
---------------------------------------
-Method to insert key 808 took 0ms
-Size of the table: 100
-Number of elements: 105
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.059999942779541
---------------------------------------
---------------------------------------
-Method to insert key 396 took 0ms
-Size of the table: 100
-Number of elements: 106
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0700000524520874
---------------------------------------
---------------------------------------
-Method to insert key 707 took 0ms
-Size of the table: 100
-Number of elements: 107
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.0800000429153442
---------------------------------------
---------------------------------------
-Method to insert key 943 took 0ms
-Size of the table: 100
-Number of elements: 108
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.090000033378601
---------------------------------------
---------------------------------------
-Method to insert key 409 took 0ms
-Size of the table: 100
-Number of elements: 109
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.100000023841858
---------------------------------------
---------------------------------------
-Method to insert key 928 took 0ms
-Size of the table: 100
-Number of elements: 110
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.1100000143051147
---------------------------------------
---------------------------------------
-Method to insert key 923 took 0ms
-Size of the table: 100
-Number of elements: 111
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.1200000047683716
---------------------------------------
---------------------------------------
-Method to insert key 72 took 0ms
-Size of the table: 100
-Number of elements: 112
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.1299999952316284
---------------------------------------
---------------------------------------
-Method to insert key 145 took 0ms
-Size of the table: 100
-Number of elements: 113
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.1399999856948853
---------------------------------------
---------------------------------------
-Method to insert key 505 took 0ms
-Size of the table: 100
-Number of elements: 114
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.149999976158142
---------------------------------------
---------------------------------------
-Method to insert key 813 took 0ms
-Size of the table: 100
-Number of elements: 115
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.159999966621399
---------------------------------------
---------------------------------------
-Method to insert key 226 took 0ms
-Size of the table: 100
-Number of elements: 116
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.1699999570846558
---------------------------------------
---------------------------------------
-Method to insert key 385 took 0ms
-Size of the table: 100
-Number of elements: 117
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.1799999475479126
---------------------------------------
---------------------------------------
-Method to insert key 400 took 0ms
-Size of the table: 100
-Number of elements: 118
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.190000057220459
---------------------------------------
---------------------------------------
-Method to insert key 813 took 0ms
-Size of the table: 100
-Number of elements: 119
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.2000000476837158
---------------------------------------
---------------------------------------
-Method to insert key 320 took 0ms
-Size of the table: 100
-Number of elements: 120
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.2100000381469727
---------------------------------------
---------------------------------------
-Method to insert key 982 took 0ms
-Size of the table: 100
-Number of elements: 121
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.2200000286102295
---------------------------------------
---------------------------------------
-Method to insert key 8 took 0ms
-Size of the table: 100
-Number of elements: 122
-Number of collisions: 0
-Items in bucket: 1
-Load factor: 1.2300000190734863
+Number of elements: 2
+Number of collisions: 7
+Items in bucket: 2
+Load factor: 0.029999999329447746
 --------------------------------------
 --------------------------------------
-Method to insert key 819 took 0ms
+Method to insert key 246 took 0ms
 Size of the table: 100
-Number of elements: 123
-Number of collisions: 0
+Number of elements: 3
+Number of collisions: 7
 Items in bucket: 1
-Load factor: 1.2400000095367432
+Load factor: 0.03999999910593033
 --------------------------------------
 --------------------------------------
-Method to insert key 661 took 0ms
+Method to insert key 169 took 0ms
 Size of the table: 100
-Number of elements: 124
-Number of collisions: 0
+Number of elements: 4
+Number of collisions: 7
 Items in bucket: 1
-Load factor: 1.25
+Load factor: 0.05000000074505806
 --------------------------------------
 --------------------------------------
 Method to insert key 70 took 0ms
 Size of the table: 100
-Number of elements: 125
-Number of collisions: 0
+Number of elements: 5
+Number of collisions: 7
 Items in bucket: 1
+Load factor: 0.05999999865889549
+--------------------------------------
+--------------------------------------
+Method to insert key 486 took 0ms
+Size of the table: 100
+Number of elements: 6
+Number of collisions: 7
+Items in bucket: 1
+Load factor: 0.07000000029802322
+--------------------------------------
+--------------------------------------
+Method to insert key 344 took 0ms
+Size of the table: 100
+Number of elements: 7
+Number of collisions: 7
+Items in bucket: 1
+Load factor: 0.07999999821186066
+--------------------------------------
+--------------------------------------
+Method to insert key 595 took 0ms
+Size of the table: 100
+Number of elements: 8
+Number of collisions: 7
+Items in bucket: 1
+Load factor: 0.09000000357627869
+--------------------------------------
+--------------------------------------
+Method to insert key 734 took 0ms
+Size of the table: 100
+Number of elements: 9
+Number of collisions: 7
+Items in bucket: 1
+Load factor: 0.10000000149011612
+--------------------------------------
+--------------------------------------
+Method to insert key 752 took 0ms
+Size of the table: 100
+Number of elements: 10
+Number of collisions: 7
+Items in bucket: 1
+Load factor: 0.10999999940395355
+--------------------------------------
+--------------------------------------
+Method to insert key 601 took 0ms
+Size of the table: 100
+Number of elements: 11
+Number of collisions: 7
+Items in bucket: 1
+Load factor: 0.11999999731779099
+--------------------------------------
+--------------------------------------
+Method to insert key 753 took 0ms
+Size of the table: 100
+Number of elements: 12
+Number of collisions: 7
+Items in bucket: 1
+Load factor: 0.12999999523162842
+--------------------------------------
+--------------------------------------
+Method to insert key 152 took 0ms
+Size of the table: 100
+Number of elements: 13
+Number of collisions: 8
+Items in bucket: 2
+Load factor: 0.14000000059604645
+--------------------------------------
+--------------------------------------
+Method to insert key 119 took 0ms
+Size of the table: 100
+Number of elements: 14
+Number of collisions: 8
+Items in bucket: 1
+Load factor: 0.15000000596046448
+--------------------------------------
+--------------------------------------
+Method to insert key 146 took 0ms
+Size of the table: 100
+Number of elements: 15
+Number of collisions: 9
+Items in bucket: 2
+Load factor: 0.1599999964237213
+--------------------------------------
+--------------------------------------
+Method to insert key 347 took 0ms
+Size of the table: 100
+Number of elements: 16
+Number of collisions: 9
+Items in bucket: 1
+Load factor: 0.17000000178813934
+--------------------------------------
+--------------------------------------
+Method to insert key 599 took 0ms
+Size of the table: 100
+Number of elements: 17
+Number of collisions: 9
+Items in bucket: 1
+Load factor: 0.18000000715255737
+--------------------------------------
+--------------------------------------
+Method to insert key 404 took 0ms
+Size of the table: 100
+Number of elements: 18
+Number of collisions: 9
+Items in bucket: 1
+Load factor: 0.1899999976158142
+--------------------------------------
+--------------------------------------
+Method to insert key 373 took 0ms
+Size of the table: 100
+Number of elements: 19
+Number of collisions: 9
+Items in bucket: 1
+Load factor: 0.20000000298023224
+--------------------------------------
+--------------------------------------
+Method to insert key 661 took 0ms
+Size of the table: 100
+Number of elements: 20
+Number of collisions: 9
+Items in bucket: 1
+Load factor: 0.20999999344348907
+--------------------------------------
+--------------------------------------
+Method to insert key 430 took 0ms
+Size of the table: 100
+Number of elements: 21
+Number of collisions: 9
+Items in bucket: 1
+Load factor: 0.2199999988079071
+--------------------------------------
+--------------------------------------
+Method to insert key 208 took 0ms
+Size of the table: 100
+Number of elements: 22
+Number of collisions: 9
+Items in bucket: 1
+Load factor: 0.23000000417232513
+--------------------------------------
+--------------------------------------
+Method to insert key 534 took 0ms
+Size of the table: 100
+Number of elements: 23
+Number of collisions: 10
+Items in bucket: 2
+Load factor: 0.23999999463558197
+--------------------------------------
+--------------------------------------
+Method to insert key 72 took 0ms
+Size of the table: 100
+Number of elements: 24
+Number of collisions: 10
+Items in bucket: 1
+Load factor: 0.25
+--------------------------------------
+--------------------------------------
+Method to insert key 179 took 0ms
+Size of the table: 100
+Number of elements: 25
+Number of collisions: 10
+Items in bucket: 1
+Load factor: 0.25999999046325684
+--------------------------------------
+--------------------------------------
+Method to insert key 125 took 0ms
+Size of the table: 100
+Number of elements: 26
+Number of collisions: 10
+Items in bucket: 1
+Load factor: 0.27000001072883606
+--------------------------------------
+--------------------------------------
+Method to insert key 499 took 0ms
+Size of the table: 100
+Number of elements: 27
+Number of collisions: 11
+Items in bucket: 2
+Load factor: 0.2800000011920929
+--------------------------------------
+--------------------------------------
+Method to insert key 663 took 0ms
+Size of the table: 100
+Number of elements: 28
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.28999999165534973
+--------------------------------------
+--------------------------------------
+Method to insert key 390 took 0ms
+Size of the table: 100
+Number of elements: 29
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.30000001192092896
+--------------------------------------
+--------------------------------------
+Method to insert key 632 took 0ms
+Size of the table: 100
+Number of elements: 30
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.3100000023841858
+--------------------------------------
+--------------------------------------
+Method to insert key 431 took 0ms
+Size of the table: 100
+Number of elements: 31
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.3199999928474426
+--------------------------------------
+--------------------------------------
+Method to insert key 437 took 0ms
+Size of the table: 100
+Number of elements: 32
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.33000001311302185
+--------------------------------------
+--------------------------------------
+Method to insert key 787 took 0ms
+Size of the table: 100
+Number of elements: 33
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.3400000035762787
+--------------------------------------
+--------------------------------------
+Method to insert key 827 took 0ms
+Size of the table: 100
+Number of elements: 34
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.3499999940395355
+--------------------------------------
+--------------------------------------
+Method to insert key 626 took 0ms
+Size of the table: 100
+Number of elements: 35
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.36000001430511475
+--------------------------------------
+--------------------------------------
+Method to insert key 707 took 0ms
+Size of the table: 100
+Number of elements: 36
+Number of collisions: 11
+Items in bucket: 1
+Load factor: 0.3700000047683716
+--------------------------------------
+--------------------------------------
+Method to insert key 144 took 0ms
+Size of the table: 100
+Number of elements: 37
+Number of collisions: 12
+Items in bucket: 2
+Load factor: 0.3799999952316284
+--------------------------------------
+--------------------------------------
+Method to insert key 958 took 0ms
+Size of the table: 100
+Number of elements: 38
+Number of collisions: 12
+Items in bucket: 1
+Load factor: 0.38999998569488525
+--------------------------------------
+--------------------------------------
+Method to insert key 479 took 0ms
+Size of the table: 100
+Number of elements: 39
+Number of collisions: 13
+Items in bucket: 2
+Load factor: 0.4000000059604645
+--------------------------------------
+--------------------------------------
+Method to insert key 4 took 0ms
+Size of the table: 100
+Number of elements: 40
+Number of collisions: 14
+Items in bucket: 2
+Load factor: 0.4099999964237213
+--------------------------------------
+--------------------------------------
+Method to insert key 975 took 0ms
+Size of the table: 100
+Number of elements: 41
+Number of collisions: 14
+Items in bucket: 1
+Load factor: 0.41999998688697815
+--------------------------------------
+--------------------------------------
+Method to insert key 258 took 0ms
+Size of the table: 100
+Number of elements: 42
+Number of collisions: 15
+Items in bucket: 2
+Load factor: 0.4300000071525574
+--------------------------------------
+--------------------------------------
+Method to insert key 283 took 0ms
+Size of the table: 100
+Number of elements: 43
+Number of collisions: 15
+Items in bucket: 1
+Load factor: 0.4399999976158142
+--------------------------------------
+--------------------------------------
+Method to insert key 690 took 0ms
+Size of the table: 100
+Number of elements: 44
+Number of collisions: 16
+Items in bucket: 2
+Load factor: 0.44999998807907104
+--------------------------------------
+--------------------------------------
+Method to insert key 868 took 0ms
+Size of the table: 100
+Number of elements: 45
+Number of collisions: 16
+Items in bucket: 1
+Load factor: 0.46000000834465027
+--------------------------------------
+--------------------------------------
+Method to insert key 485 took 0ms
+Size of the table: 100
+Number of elements: 46
+Number of collisions: 16
+Items in bucket: 1
+Load factor: 0.4699999988079071
+--------------------------------------
+--------------------------------------
+Method to insert key 467 took 0ms
+Size of the table: 100
+Number of elements: 47
+Number of collisions: 16
+Items in bucket: 1
+Load factor: 0.47999998927116394
+--------------------------------------
+--------------------------------------
+Method to insert key 118 took 0ms
+Size of the table: 100
+Number of elements: 48
+Number of collisions: 16
+Items in bucket: 1
+Load factor: 0.49000000953674316
+--------------------------------------
+--------------------------------------
+Method to insert key 249 took 0ms
+Size of the table: 100
+Number of elements: 49
+Number of collisions: 16
+Items in bucket: 1
+Load factor: 0.5
+--------------------------------------
+--------------------------------------
+Method to insert key 701 took 0ms
+Size of the table: 100
+Number of elements: 50
+Number of collisions: 17
+Items in bucket: 2
+Load factor: 0.5099999904632568
+--------------------------------------
+--------------------------------------
+Method to insert key 403 took 0ms
+Size of the table: 100
+Number of elements: 51
+Number of collisions: 17
+Items in bucket: 1
+Load factor: 0.5199999809265137
+--------------------------------------
+--------------------------------------
+Method to insert key 775 took 0ms
+Size of the table: 100
+Number of elements: 52
+Number of collisions: 18
+Items in bucket: 2
+Load factor: 0.5299999713897705
+--------------------------------------
+--------------------------------------
+Method to insert key 758 took 0ms
+Size of the table: 100
+Number of elements: 53
+Number of collisions: 19
+Items in bucket: 3
+Load factor: 0.5400000214576721
+--------------------------------------
+--------------------------------------
+Method to insert key 553 took 0ms
+Size of the table: 100
+Number of elements: 54
+Number of collisions: 20
+Items in bucket: 2
+Load factor: 0.550000011920929
+--------------------------------------
+--------------------------------------
+Method to insert key 369 took 0ms
+Size of the table: 100
+Number of elements: 55
+Number of collisions: 21
+Items in bucket: 2
+Load factor: 0.5600000023841858
+--------------------------------------
+--------------------------------------
+Method to insert key 792 took 0ms
+Size of the table: 100
+Number of elements: 56
+Number of collisions: 21
+Items in bucket: 1
+Load factor: 0.5699999928474426
+--------------------------------------
+--------------------------------------
+Method to insert key 693 took 0ms
+Size of the table: 100
+Number of elements: 57
+Number of collisions: 21
+Items in bucket: 1
+Load factor: 0.5799999833106995
+--------------------------------------
+--------------------------------------
+Method to insert key 565 took 0ms
+Size of the table: 100
+Number of elements: 58
+Number of collisions: 21
+Items in bucket: 1
+Load factor: 0.5899999737739563
+--------------------------------------
+--------------------------------------
+Method to insert key 85 took 0ms
+Size of the table: 100
+Number of elements: 59
+Number of collisions: 22
+Items in bucket: 2
+Load factor: 0.6000000238418579
+--------------------------------------
+--------------------------------------
+Method to insert key 664 took 0ms
+Size of the table: 100
+Number of elements: 60
+Number of collisions: 22
+Items in bucket: 1
+Load factor: 0.6100000143051147
+--------------------------------------
+--------------------------------------
+Method to insert key 672 took 0ms
+Size of the table: 100
+Number of elements: 61
+Number of collisions: 23
+Items in bucket: 2
+Load factor: 0.6200000047683716
+--------------------------------------
+--------------------------------------
+Method to insert key 161 took 0ms
+Size of the table: 100
+Number of elements: 62
+Number of collisions: 24
+Items in bucket: 2
+Load factor: 0.6299999952316284
+--------------------------------------
+--------------------------------------
+Method to insert key 661 took 0ms
+Size of the table: 100
+Number of elements: 63
+Number of collisions: 25
+Items in bucket: 2
+Load factor: 0.6399999856948853
+--------------------------------------
+--------------------------------------
+Method to insert key 933 took 0ms
+Size of the table: 100
+Number of elements: 64
+Number of collisions: 25
+Items in bucket: 1
+Load factor: 0.6499999761581421
+--------------------------------------
+--------------------------------------
+Method to insert key 139 took 0ms
+Size of the table: 100
+Number of elements: 65
+Number of collisions: 25
+Items in bucket: 1
+Load factor: 0.6600000262260437
+--------------------------------------
+--------------------------------------
+Method to insert key 665 took 0ms
+Size of the table: 100
+Number of elements: 66
+Number of collisions: 26
+Items in bucket: 2
+Load factor: 0.6700000166893005
+--------------------------------------
+--------------------------------------
+Method to insert key 488 took 0ms
+Size of the table: 100
+Number of elements: 67
+Number of collisions: 26
+Items in bucket: 1
+Load factor: 0.6800000071525574
+--------------------------------------
+--------------------------------------
+Method to insert key 372 took 0ms
+Size of the table: 100
+Number of elements: 68
+Number of collisions: 27
+Items in bucket: 3
+Load factor: 0.6899999976158142
+--------------------------------------
+--------------------------------------
+Method to insert key 16 took 0ms
+Size of the table: 100
+Number of elements: 69
+Number of collisions: 27
+Items in bucket: 1
+Load factor: 0.699999988079071
+--------------------------------------
+--------------------------------------
+Method to insert key 985 took 0ms
+Size of the table: 100
+Number of elements: 70
+Number of collisions: 28
+Items in bucket: 3
+Load factor: 0.7099999785423279
+--------------------------------------
+--------------------------------------
+Method to insert key 297 took 0ms
+Size of the table: 100
+Number of elements: 71
+Number of collisions: 28
+Items in bucket: 1
+Load factor: 0.7200000286102295
+--------------------------------------
+--------------------------------------
+Method to insert key 641 took 0ms
+Size of the table: 100
+Number of elements: 72
+Number of collisions: 28
+Items in bucket: 1
+Load factor: 0.7300000190734863
+--------------------------------------
+--------------------------------------
+Method to insert key 334 took 0ms
+Size of the table: 100
+Number of elements: 73
+Number of collisions: 29
+Items in bucket: 3
+Load factor: 0.7400000095367432
+--------------------------------------
+--------------------------------------
+Method to insert key 526 took 0ms
+Size of the table: 100
+Number of elements: 74
+Number of collisions: 30
+Items in bucket: 2
+Load factor: 0.75
+--------------------------------------
+--------------------------------------
+Method to insert key 127 took 0ms
+Size of the table: 100
+Number of elements: 75
+Number of collisions: 31
+Items in bucket: 2
+Load factor: 0.7599999904632568
+--------------------------------------
+--------------------------------------
+Method to insert key 890 took 0ms
+Size of the table: 100
+Number of elements: 76
+Number of collisions: 32
+Items in bucket: 3
+Load factor: 0.7699999809265137
+--------------------------------------
+--------------------------------------
+Method to insert key 568 took 0ms
+Size of the table: 100
+Number of elements: 77
+Number of collisions: 33
+Items in bucket: 2
+Load factor: 0.7799999713897705
+--------------------------------------
+--------------------------------------
+Method to insert key 977 took 0ms
+Size of the table: 100
+Number of elements: 78
+Number of collisions: 33
+Items in bucket: 1
+Load factor: 0.7900000214576721
+--------------------------------------
+--------------------------------------
+Method to insert key 422 took 0ms
+Size of the table: 100
+Number of elements: 79
+Number of collisions: 33
+Items in bucket: 1
+Load factor: 0.800000011920929
+--------------------------------------
+--------------------------------------
+Method to insert key 311 took 0ms
+Size of the table: 100
+Number of elements: 80
+Number of collisions: 33
+Items in bucket: 1
+Load factor: 0.8100000023841858
+--------------------------------------
+--------------------------------------
+Method to insert key 929 took 0ms
+Size of the table: 100
+Number of elements: 81
+Number of collisions: 33
+Items in bucket: 1
+Load factor: 0.8199999928474426
+--------------------------------------
+--------------------------------------
+Method to insert key 472 took 0ms
+Size of the table: 100
+Number of elements: 82
+Number of collisions: 34
+Items in bucket: 4
+Load factor: 0.8299999833106995
+--------------------------------------
+--------------------------------------
+Method to insert key 100 took 0ms
+Size of the table: 100
+Number of elements: 83
+Number of collisions: 34
+Items in bucket: 1
+Load factor: 0.8399999737739563
+--------------------------------------
+--------------------------------------
+Method to insert key 391 took 0ms
+Size of the table: 100
+Number of elements: 84
+Number of collisions: 34
+Items in bucket: 1
+Load factor: 0.8500000238418579
+--------------------------------------
+--------------------------------------
+Method to insert key 275 took 0ms
+Size of the table: 100
+Number of elements: 85
+Number of collisions: 35
+Items in bucket: 3
+Load factor: 0.8600000143051147
+--------------------------------------
+--------------------------------------
+Method to insert key 418 took 0ms
+Size of the table: 100
+Number of elements: 86
+Number of collisions: 36
+Items in bucket: 2
+Load factor: 0.8700000047683716
+--------------------------------------
+--------------------------------------
+Method to insert key 982 took 0ms
+Size of the table: 100
+Number of elements: 87
+Number of collisions: 36
+Items in bucket: 1
+Load factor: 0.8799999952316284
+--------------------------------------
+--------------------------------------
+Method to insert key 935 took 0ms
+Size of the table: 100
+Number of elements: 88
+Number of collisions: 36
+Items in bucket: 1
+Load factor: 0.8899999856948853
+--------------------------------------
+--------------------------------------
+Method to insert key 795 took 0ms
+Size of the table: 100
+Number of elements: 89
+Number of collisions: 37
+Items in bucket: 2
+Load factor: 0.8999999761581421
+--------------------------------------
+--------------------------------------
+Method to insert key 858 took 0ms
+Size of the table: 100
+Number of elements: 90
+Number of collisions: 38
+Items in bucket: 4
+Load factor: 0.9100000262260437
+--------------------------------------
+--------------------------------------
+Method to insert key 866 took 0ms
+Size of the table: 100
+Number of elements: 91
+Number of collisions: 38
+Items in bucket: 1
+Load factor: 0.9200000166893005
+--------------------------------------
+--------------------------------------
+Method to insert key 763 took 0ms
+Size of the table: 100
+Number of elements: 92
+Number of collisions: 39
+Items in bucket: 2
+Load factor: 0.9300000071525574
+--------------------------------------
+--------------------------------------
+Method to insert key 611 took 0ms
+Size of the table: 100
+Number of elements: 93
+Number of collisions: 40
+Items in bucket: 2
+Load factor: 0.9399999976158142
+--------------------------------------
+--------------------------------------
+Method to insert key 960 took 0ms
+Size of the table: 100
+Number of elements: 94
+Number of collisions: 40
+Items in bucket: 1
+Load factor: 0.949999988079071
+--------------------------------------
+--------------------------------------
+Method to insert key 908 took 0ms
+Size of the table: 100
+Number of elements: 95
+Number of collisions: 41
+Items in bucket: 2
+Load factor: 0.9599999785423279
+--------------------------------------
+--------------------------------------
+Method to insert key 487 took 0ms
+Size of the table: 100
+Number of elements: 96
+Number of collisions: 42
+Items in bucket: 2
+Load factor: 0.9700000286102295
+--------------------------------------
+--------------------------------------
+Method to insert key 229 took 0ms
+Size of the table: 100
+Number of elements: 97
+Number of collisions: 43
+Items in bucket: 2
+Load factor: 0.9800000190734863
+--------------------------------------
+--------------------------------------
+Method to insert key 462 took 0ms
+Size of the table: 100
+Number of elements: 98
+Number of collisions: 43
+Items in bucket: 1
+Load factor: 0.9900000095367432
+--------------------------------------
+--------------------------------------
+Method to insert key 469 took 0ms
+Size of the table: 100
+Number of elements: 99
+Number of collisions: 44
+Items in bucket: 3
+Load factor: 1.0
+--------------------------------------
+--------------------------------------
+Method to insert key 167 took 0ms
+Size of the table: 100
+Number of elements: 100
+Number of collisions: 45
+Items in bucket: 2
+Load factor: 1.0099999904632568
+--------------------------------------
+--------------------------------------
+Method to insert key 323 took 0ms
+Size of the table: 100
+Number of elements: 101
+Number of collisions: 45
+Items in bucket: 1
+Load factor: 1.0199999809265137
+--------------------------------------
+--------------------------------------
+Method to insert key 147 took 0ms
+Size of the table: 100
+Number of elements: 102
+Number of collisions: 46
+Items in bucket: 2
+Load factor: 1.0299999713897705
+--------------------------------------
+--------------------------------------
+Method to insert key 758 took 0ms
+Size of the table: 100
+Number of elements: 103
+Number of collisions: 47
+Items in bucket: 4
+Load factor: 1.0399999618530273
+--------------------------------------
+--------------------------------------
+Method to insert key 166 took 0ms
+Size of the table: 100
+Number of elements: 104
+Number of collisions: 48
+Items in bucket: 2
+Load factor: 1.0499999523162842
+--------------------------------------
+--------------------------------------
+Method to insert key 677 took 0ms
+Size of the table: 100
+Number of elements: 105
+Number of collisions: 49
+Items in bucket: 2
+Load factor: 1.059999942779541
+--------------------------------------
+--------------------------------------
+Method to insert key 447 took 0ms
+Size of the table: 100
+Number of elements: 106
+Number of collisions: 50
+Items in bucket: 3
+Load factor: 1.0700000524520874
+--------------------------------------
+--------------------------------------
+Method to insert key 52 took 0ms
+Size of the table: 100
+Number of elements: 107
+Number of collisions: 51
+Items in bucket: 3
+Load factor: 1.0800000429153442
+--------------------------------------
+--------------------------------------
+Method to insert key 985 took 0ms
+Size of the table: 100
+Number of elements: 108
+Number of collisions: 52
+Items in bucket: 3
+Load factor: 1.090000033378601
+--------------------------------------
+--------------------------------------
+Method to insert key 208 took 0ms
+Size of the table: 100
+Number of elements: 109
+Number of collisions: 53
+Items in bucket: 2
+Load factor: 1.100000023841858
+--------------------------------------
+--------------------------------------
+Method to insert key 607 took 0ms
+Size of the table: 100
+Number of elements: 110
+Number of collisions: 54
+Items in bucket: 2
+Load factor: 1.1100000143051147
+--------------------------------------
+--------------------------------------
+Method to insert key 581 took 0ms
+Size of the table: 100
+Number of elements: 111
+Number of collisions: 54
+Items in bucket: 1
+Load factor: 1.1200000047683716
+--------------------------------------
+--------------------------------------
+Method to insert key 46 took 0ms
+Size of the table: 100
+Number of elements: 112
+Number of collisions: 55
+Items in bucket: 3
+Load factor: 1.1299999952316284
+--------------------------------------
+--------------------------------------
+Method to insert key 948 took 0ms
+Size of the table: 100
+Number of elements: 113
+Number of collisions: 55
+Items in bucket: 1
+Load factor: 1.1399999856948853
+--------------------------------------
+--------------------------------------
+Method to insert key 258 took 0ms
+Size of the table: 100
+Number of elements: 114
+Number of collisions: 56
+Items in bucket: 4
+Load factor: 1.149999976158142
+--------------------------------------
+--------------------------------------
+Method to insert key 84 took 0ms
+Size of the table: 100
+Number of elements: 115
+Number of collisions: 57
+Items in bucket: 2
+Load factor: 1.159999966621399
+--------------------------------------
+--------------------------------------
+Method to insert key 36 took 0ms
+Size of the table: 100
+Number of elements: 116
+Number of collisions: 58
+Items in bucket: 2
+Load factor: 1.1699999570846558
+--------------------------------------
+--------------------------------------
+Method to insert key 303 took 0ms
+Size of the table: 100
+Number of elements: 117
+Number of collisions: 59
+Items in bucket: 2
+Load factor: 1.1799999475479126
+--------------------------------------
+--------------------------------------
+Method to insert key 105 took 0ms
+Size of the table: 100
+Number of elements: 118
+Number of collisions: 59
+Items in bucket: 1
+Load factor: 1.190000057220459
+--------------------------------------
+--------------------------------------
+Method to insert key 585 took 0ms
+Size of the table: 100
+Number of elements: 119
+Number of collisions: 60
+Items in bucket: 4
+Load factor: 1.2000000476837158
+--------------------------------------
+--------------------------------------
+Method to insert key 817 took 0ms
+Size of the table: 100
+Number of elements: 120
+Number of collisions: 60
+Items in bucket: 1
+Load factor: 1.2100000381469727
+--------------------------------------
+--------------------------------------
+Method to insert key 890 took 0ms
+Size of the table: 100
+Number of elements: 121
+Number of collisions: 61
+Items in bucket: 3
+Load factor: 1.2200000286102295
+--------------------------------------
+--------------------------------------
+Method to insert key 383 took 0ms
+Size of the table: 100
+Number of elements: 122
+Number of collisions: 62
+Items in bucket: 2
+Load factor: 1.2300000190734863
+--------------------------------------
+--------------------------------------
+Method to insert key 64 took 0ms
+Size of the table: 100
+Number of elements: 123
+Number of collisions: 63
+Items in bucket: 2
+Load factor: 1.2400000095367432
+--------------------------------------
+--------------------------------------
+Method to insert key 197 took 0ms
+Size of the table: 100
+Number of elements: 124
+Number of collisions: 64
+Items in bucket: 2
+Load factor: 1.25
+--------------------------------------
+--------------------------------------
+Method to insert key 900 took 0ms
+Size of the table: 100
+Number of elements: 125
+Number of collisions: 65
+Items in bucket: 2
 Load factor: 1.2599999904632568
 --------------------------------------
 --------------------------------------
-Method to insert key 381 took 0ms
+Method to insert key 2 took 0ms
 Size of the table: 100
 Number of elements: 126
-Number of collisions: 0
+Number of collisions: 65
 Items in bucket: 1
 Load factor: 1.2699999809265137
 --------------------------------------
 --------------------------------------
-Method to insert key 591 took 0ms
+Method to insert key 216 took 0ms
 Size of the table: 100
 Number of elements: 127
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 66
+Items in bucket: 2
 Load factor: 1.2799999713897705
 --------------------------------------
 --------------------------------------
-Method to insert key 956 took 0ms
+Method to insert key 726 took 0ms
 Size of the table: 100
 Number of elements: 128
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 67
+Items in bucket: 3
 Load factor: 1.2899999618530273
 --------------------------------------
 --------------------------------------
-Method to insert key 995 took 0ms
+Method to insert key 274 took 0ms
 Size of the table: 100
 Number of elements: 129
-Number of collisions: 0
+Number of collisions: 67
 Items in bucket: 1
 Load factor: 1.2999999523162842
 --------------------------------------
 --------------------------------------
-Method to insert key 952 took 0ms
+Method to insert key 510 took 0ms
 Size of the table: 100
 Number of elements: 130
-Number of collisions: 0
+Number of collisions: 67
 Items in bucket: 1
 Load factor: 1.309999942779541
 --------------------------------------
 --------------------------------------
-Method to insert key 209 took 0ms
+Method to insert key 536 took 0ms
 Size of the table: 100
 Number of elements: 131
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 68
+Items in bucket: 3
 Load factor: 1.3200000524520874
 --------------------------------------
 --------------------------------------
-Method to insert key 699 took 0ms
+Method to insert key 414 took 0ms
 Size of the table: 100
 Number of elements: 132
-Number of collisions: 0
+Number of collisions: 68
 Items in bucket: 1
 Load factor: 1.3300000429153442
 --------------------------------------
 --------------------------------------
-Method to insert key 574 took 0ms
+Method to insert key 885 took 0ms
 Size of the table: 100
 Number of elements: 133
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 69
+Items in bucket: 5
 Load factor: 1.340000033378601
 --------------------------------------
 --------------------------------------
-Method to insert key 452 took 0ms
+Method to insert key 523 took 0ms
 Size of the table: 100
 Number of elements: 134
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 70
+Items in bucket: 2
 Load factor: 1.350000023841858
 --------------------------------------
 --------------------------------------
-Method to insert key 699 took 0ms
+Method to insert key 862 took 0ms
 Size of the table: 100
 Number of elements: 135
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 71
+Items in bucket: 2
 Load factor: 1.3600000143051147
 --------------------------------------
 --------------------------------------
-Method to insert key 165 took 0ms
+Method to insert key 87 took 0ms
 Size of the table: 100
 Number of elements: 136
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 72
+Items in bucket: 3
 Load factor: 1.3700000047683716
 --------------------------------------
 --------------------------------------
-Method to insert key 875 took 0ms
+Method to insert key 381 took 0ms
 Size of the table: 100
 Number of elements: 137
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 73
+Items in bucket: 2
 Load factor: 1.3799999952316284
 --------------------------------------
 --------------------------------------
-Method to insert key 99 took 0ms
+Method to insert key 907 took 0ms
 Size of the table: 100
 Number of elements: 138
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 74
+Items in bucket: 3
 Load factor: 1.3899999856948853
 --------------------------------------
 --------------------------------------
-Method to insert key 872 took 0ms
+Method to insert key 840 took 0ms
 Size of the table: 100
 Number of elements: 139
-Number of collisions: 0
+Number of collisions: 74
 Items in bucket: 1
 Load factor: 1.399999976158142
 --------------------------------------
 --------------------------------------
-Method to insert key 744 took 0ms
+Method to insert key 120 took 0ms
 Size of the table: 100
 Number of elements: 140
-Number of collisions: 0
+Number of collisions: 74
 Items in bucket: 1
 Load factor: 1.409999966621399
 --------------------------------------
 --------------------------------------
-Method to insert key 678 took 0ms
+Method to insert key 399 took 0ms
 Size of the table: 100
 Number of elements: 141
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 75
+Items in bucket: 3
 Load factor: 1.4199999570846558
 --------------------------------------
 --------------------------------------
-Method to insert key 142 took 0ms
+Method to insert key 987 took 0ms
 Size of the table: 100
 Number of elements: 142
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 76
+Items in bucket: 4
 Load factor: 1.4299999475479126
 --------------------------------------
 --------------------------------------
-Method to insert key 289 took 0ms
+Method to insert key 340 took 0ms
 Size of the table: 100
 Number of elements: 143
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 77
+Items in bucket: 2
 Load factor: 1.440000057220459
 --------------------------------------
 --------------------------------------
-Method to insert key 301 took 0ms
+Method to insert key 913 took 0ms
 Size of the table: 100
 Number of elements: 144
-Number of collisions: 0
+Number of collisions: 77
 Items in bucket: 1
 Load factor: 1.4500000476837158
 --------------------------------------
 --------------------------------------
-Method to insert key 143 took 0ms
+Method to insert key 952 took 0ms
 Size of the table: 100
 Number of elements: 145
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 78
+Items in bucket: 4
 Load factor: 1.4600000381469727
 --------------------------------------
 --------------------------------------
-Method to insert key 239 took 0ms
+Method to insert key 553 took 0ms
 Size of the table: 100
 Number of elements: 146
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 79
+Items in bucket: 2
 Load factor: 1.4700000286102295
 --------------------------------------
 --------------------------------------
-Method to insert key 210 took 0ms
+Method to insert key 216 took 0ms
 Size of the table: 100
 Number of elements: 147
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 80
+Items in bucket: 2
 Load factor: 1.4800000190734863
 --------------------------------------
 --------------------------------------
-Method to insert key 448 took 0ms
+Method to insert key 563 took 0ms
 Size of the table: 100
 Number of elements: 148
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 81
+Items in bucket: 3
 Load factor: 1.4900000095367432
 --------------------------------------
 --------------------------------------
-Method to insert key 718 took 0ms
+Method to insert key 191 took 0ms
 Size of the table: 100
 Number of elements: 149
-Number of collisions: 0
-Items in bucket: 1
+Number of collisions: 82
+Items in bucket: 2
 Load factor: 1.5
 --------------------------------------

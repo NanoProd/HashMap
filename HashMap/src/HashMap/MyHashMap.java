@@ -65,7 +65,7 @@ public class MyHashMap extends AbsHashMap {
      * @param k
      * @return int
      */
-    @Override
+
     public int get(int k) {
         long startTime = System.currentTimeMillis();
         int hashOfKey = hashCode(k);
@@ -101,12 +101,9 @@ public class MyHashMap extends AbsHashMap {
        // if(size() > (getCapacity()/2)){
         //    resize((2* getCapacity()) - 1);
        // }
-        ArrayList<Entry> innerTable = table.get(hashOfKey);
-        if(table.get(hashOfKey).isEmpty())
+       ArrayList<Entry> innerTable = table.get(hashOfKey);
         if (innerTable.isEmpty()) {
-            innerTable = new ArrayList<Entry>();
             Entry newEntry = new Entry(k, v);
-            innerTable.
             innerTable.add(newEntry);
             returnValue = -1;
             added = true;
@@ -142,6 +139,8 @@ public class MyHashMap extends AbsHashMap {
 
     
     /** 
+     * Removes from the map the entry with key equal to k, and returns its value; if
+     * the map has no such entry, then it returns null. 
      * @param k
      * @return int
      */
@@ -197,6 +196,7 @@ public class MyHashMap extends AbsHashMap {
 
     
     /** 
+     * returns hash code v
      * @param k
      * @return int
      */
