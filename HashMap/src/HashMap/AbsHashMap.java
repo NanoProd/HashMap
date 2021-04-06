@@ -20,6 +20,10 @@ public abstract class AbsHashMap {
         createTable();
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getCapacity() {
         return capacity;
     }
@@ -28,9 +32,20 @@ public abstract class AbsHashMap {
         n++;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getEntries() {
         return n;
     }
+
+    public void setCapacity(int newCapacity){
+        this.capacity = newCapacity;
+    }
+    public void setSize(int newSize){
+        this.n = newSize;
+     }
 
     // Creates table
     abstract void createTable();

@@ -1,0 +1,6 @@
+Time taken to add 25 Entries using Put(k): 47ms
+Time taken to add 50 Entries using Put(k): 95ms
+Time taken to add 75 Entries using Put(k): 144ms
+Time taken to add 100 Entries using Put(k): 192ms
+Time taken to add 125 Entries using Put(k): 241ms
+Time taken to add 150 Entries using Put(k): 289ms

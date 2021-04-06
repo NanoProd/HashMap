@@ -16,30 +16,56 @@ public class Entry {
         this.value = Integer.valueOf(value);
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getKey() {
         return key.intValue();
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getValue() {
         return value.intValue();
     }
 
+    
+    /** 
+     * @param key
+     */
     public void setKey(int key) {
         this.key = Integer.valueOf(key);
     }
 
+    
+    /** 
+     * @param value
+     * @return int
+     */
     public int setValue(int value) {
         Integer old = this.value;
         this.value = Integer.valueOf(value);
         return old;
     }
 
+    
+    /** 
+     * @return int
+     */
     public static int randomNum() {
         Random random = new Random();
         int randomNum = random.nextInt(1000);
         return randomNum;
     }
 
+    
+    /** 
+     * @param N
+     * @return int
+     */
     public int hashCode(int N) {
         return key % N;
     }
