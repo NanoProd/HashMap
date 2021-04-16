@@ -6,18 +6,32 @@ import java.io.*;
 import Entry.Entry;
 
 public class MyHashMap extends AbsHashMap {
-
+    /**
+     * PrintWriter object to output results to text file
+     */
     PrintWriter writer = null;
 
     // attributes
+    /**
+     * hashmap table
+     */
     private ArrayList<ArrayList<Entry>> table;
+    /**
+     * quantity of collisions 
+     */
     static int collisions = 0;
 
     // constructor
+    /**
+     * default constructor calls super constructor
+     */
     public MyHashMap() {
         super();
     }
-
+    /**
+     * parametrized constructor calls super parametrized constructor
+     * @param capacity int for initial capacity of table
+     */
     public MyHashMap(int capacity) {
         super(capacity);
         try
@@ -36,7 +50,7 @@ public class MyHashMap extends AbsHashMap {
     }
     
     /** 
-     * @return PrintWriter
+     * @return PrintWriter returns output object PrintWriter
      */
     public PrintWriter getWriter(){
         return writer;
@@ -44,7 +58,7 @@ public class MyHashMap extends AbsHashMap {
 
     
     /** 
-     * @return int
+     * @return int number of entries
      */
     @Override
     public int size() {
@@ -53,7 +67,7 @@ public class MyHashMap extends AbsHashMap {
 
     
     /** 
-     * @return boolean
+     * @return boolean for if the size is equal to 0
      */
     @Override
     public boolean isEmpty() {
@@ -88,9 +102,9 @@ public class MyHashMap extends AbsHashMap {
 
     
     /** 
-     * @param k
-     * @param v
-     * @return int
+     * @param k int for key
+     * @param v int for value 
+     * @return int returns the value of the entry
      */
     @Override
     public int Put(int k, int v) {
@@ -141,8 +155,8 @@ public class MyHashMap extends AbsHashMap {
     /** 
      * Removes from the map the entry with key equal to k, and returns its value; if
      * the map has no such entry, then it returns null. 
-     * @param k
-     * @return int
+     * @param k int for key being removed
+     * @return int returns the removed value
      */
     @Override
     public int remove(int k) {
@@ -188,7 +202,9 @@ public class MyHashMap extends AbsHashMap {
             }
     }
     */
-
+    /**
+     * created 2d table of arrayLists
+     */
     @Override
     public void createTable() {
         table = (ArrayList<ArrayList<Entry>>) new ArrayList<ArrayList<Entry>>(getCapacity());
@@ -197,8 +213,8 @@ public class MyHashMap extends AbsHashMap {
     
     /** 
      * returns hash code v
-     * @param k
-     * @return int
+     * @param k int for key
+     * @return int the mod of int k and the capacity
      */
     @Override
     public int hashCode(int k) {

@@ -1,19 +1,28 @@
 package HashMap;
 
 public abstract class AbsHashMap {
+    /**
+     * int for number of entries
+     */
+    private int n;
+    /**
+     * int formax capacity of hash map
+     */
+    private int capacity;
 
-    private int n; // number of entries
-    private int capacity; // max capacity of hash map
-
-    // constructors
-    // default constructor
+    /**
+     * default constructor sets capacity to 10 and creates table
+     */
     public AbsHashMap() {
         n = 0;
         capacity = 10;
         createTable();
     }
 
-    // parametrized constructor
+    /**
+     * parametrized constructor sets capacity to initial size
+     * @param initialSize int capacity of table
+     */
     public AbsHashMap(int initialSize) {
         n = 0;
         capacity = initialSize;
@@ -23,15 +32,14 @@ public abstract class AbsHashMap {
     
     /**
      * Gets capacity 
-     * @return int
+     * @return int represents capacity
      */
     public int getCapacity() {
         return capacity;
     }
 
     /**
-     * increments entries
-    * @param n
+     * increments entries by 1
     */
     public void incrementEntries() {
         n++;
@@ -40,19 +48,21 @@ public abstract class AbsHashMap {
     
     /** 
      * gets entries
-     * @return int
+     * @return int n returns the number of entries
      */
     public int getEntries() {
         return n;
     }
     /**
      * sets capacity
+     * @param newCapacity int for newCapacity of table
      */
     public void setCapacity(int newCapacity){
         this.capacity = newCapacity;
     }
     /**
      * sets size
+     * @param newSize int for new size of table
      */
     public void setSize(int newSize){
         this.n = newSize;

@@ -3,14 +3,27 @@ package Entry;
 import java.util.Random;
 
 public class Entry {
+    /**
+     * integer representing key order of Entry object
+     */
     private Integer key; // key
+    /**
+     * integer value used to calculate the key using hash method
+     */
     private Integer value; // value
 
+    /**
+     * constructor initializes with random values using randomNum() function
+     */
     public Entry() {
         key = Integer.valueOf(randomNum());
         value = Integer.valueOf(randomNum());
     }
-
+    /**
+     * constructor initializes with given key and value values
+     * @param key int for key
+     * @param value int for value
+     */
     public Entry(int key, int value) {
         this.key = Integer.valueOf(key);
         this.value = Integer.valueOf(value);

@@ -1,0 +1,54 @@
+a) a written specification of each of the classes you implemented, providing any information
+about design decisions
+
+--> Entry class
+The entry class we designed is meant to be used in Priority queue implementation. Every 
+Entry object has private key and value attributes, and keys are ordered based off of their key value.
+To determine the value of the key we used a hash function which set the value to 
+value mod the size of the hashmap. 
+For our driver function, we assigned the value attribute to hold a random value based off
+of the method randomNum() which generates a random number using the Random class object in java.util
+
+
+--> AbsHashMap
+The abstract hash map class is meant to declare abstract methods such as size(), isEmpty(), get get(k),
+Put(k,v) and remove(k).It models a hash table, it was used to increase the functionallity and usuability 
+of our code to permit the use of other subclasses and methods. 
+
+
+--> MyHashMap
+The MyHashMap class is a subclass of the abstract AbsHashMap class which uses hash search
+for its get function. This is considerably faster than binary searching which runs in O(logn)
+because hashing takes O(1) time. In the worst case scenario, there are several collisions and the
+method takes O(n) time where n represents the quantity of collisions on the specific bucket.
+The put method was designed so that it calculates the hashValue of the key to decide in which 
+bucket of the arrayList it will be placed in. Items are not allowed to have the same key value,
+if one exists the new entry will simply reset the value attribute of the existing key.
+
+The hashMap uses 2d nested arrayLists, so methods like remove(key) can simply call arrayList.remove()
+in order to remove a specific key inside a specific bucket.
+
+We added a resize() function which was commented out because it was not part of the assignment,
+essentially the method will double the size of the array and replace all of the elements if the loading
+factor increases past 0.5. 
+
+
+--> HashMapDriver
+Driver class containing main, used to to test out the functionallity of the code.
+
+
+b)A written report with the trial run of validate(), and answers to questions in item (c) of
+experiment interpret().
+--Describe (by inspection or graphing) how the time to run put(k,v) increases as
+the load factor of the hash table increases, and provide reason to justify your
+observation.
+
+--> The time to run put(k,v) increases slightly as the load factor increases. For entries 25, 50 and 75 the 
+time increased by 1ms each in order. If the code was expanded to larger values of n, in our case n = 150 is 
+our largest value so we are not really measuring the scalability of our algorithm. If the value of n increased, 
+the put method would take significantly longer once the load factor reached 0.5 because it would require the put method
+to resize the hashmap to double its original size and replace all the values by recalculating their hash values and placing
+them accordingly. This would take a lot of time as values of n grow larger.
+
+
+
